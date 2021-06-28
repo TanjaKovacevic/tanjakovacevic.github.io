@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanja Kovacevic / Site Title"
+title                    : "Tanja Kovacevic"
 title_separator          : "-"
 name                     : &name "Tanja Kovacevic"
 description              : &description "Ph.D. Student at U.C. Berkeley"
