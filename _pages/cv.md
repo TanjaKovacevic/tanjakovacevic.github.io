@@ -32,12 +32,9 @@ Research experience
 
 Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CHEM 3498 - Honors Organic Chemistry II Lab | Laboratory TA </i>Spring 2019 - Spring 2020</i>
+* CHEM 2031 - General Chemistry | Lecture TA </i>Fall 2018 - Spring 2019</i>
+* CHEM 3481 Honors Organic Chemistry I | Lecture TA </i>Fall 2018</i>
 
 Publications
 ======
