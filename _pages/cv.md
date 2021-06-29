@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, ACS, University of Colorado, Denver, 2020
-* Ph.D in Earth and Planetary Science, University of California, Berkeley, 2025 (expected)
+* **A.A. Mathematics and Sciences**, Las Posicats Community College 2016
+* **B.S. in Chemistry**, ACS, University of Colorado, Denver, 2020
+* **Ph.D in Earth and Planetary Science**, University of California, Berkeley, 2025 (expected)
 
 Research experience
 ======
@@ -28,7 +29,7 @@ Research experience
   * Supervisor: Hai Lin
   
 * **Undergraduate Research Assitant** - (Summer 2019)
-  * MIT - Nuclear Science and Engineering Department
+  * M.I.T. - Nuclear Science and Engineering Department
   * Performed computational fluid dynamics implementing a novel uncertainty quantification method on GEMIX (international benchmark) bounding experimental results within the turbulent areas of mixing zones. [poster](../files/UQ-Turbulence.pdf) 
   * Supervisor: Emilio Baglietto
 
@@ -44,7 +45,8 @@ Publications
 
 Outreach
 ======
-*
+* Undoing Racism in the GEoSciences (URGE) - Member of the [Berkeley pod](https://urgeoscience.org/pods/berkeley-2/)
+* Physical Sciences Opportunities for Womxn in Education and Research (POWER) - Mentor
 
 Achievements
 ======
