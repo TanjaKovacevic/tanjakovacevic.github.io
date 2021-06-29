@@ -16,33 +16,40 @@ Education
 
 Research experience
 ======
-* Fall 2020 - Current: **Graduate Student Researcher**
+* **Graduate Student Researcher** - (Fall 2020 - Current)
   * U.C. Berkeley - Earth and Planetary Science Department
-  * 
+  *  
   * Supervisor: Burkhard Militzer
 
-* Fall 2017 - Spring 2020: **Undergraduate Research Assistant**
+* **Undergraduate Research Assistant** - (Fall 2017 - Spring 2020)
   * C.U. Denver - Chemistry Department
-  * 
+  * Conducted a computational study of the villin headpiece subdomain HP-36 computing hypersurface, ring-flipping, profiles of the hydrophobic core (F47 F51, F58) via umbrella sampling. Link to my [poster](../files/HP36.pdf).
+  * Wrote a [tutorial](https://github.com/TanjaKovacevic/Umbrella_Sampling/) for Umbrella Sampling/WHAM of a dihedral angle to determine potential of mean force.  
   * Supervisor: Hai Lin
   
-* Summer 2019: **Undergraduate Research Assitant**
+* **Undergraduate Research Assitant** - (Summer 2019)
   * MIT - Nuclear Science and Engineering Department
-  * 
+  * Performed computational fluid dynamics implementing a novel uncertainty quantification method on GEMIX (international benchmark) bounding experimental results within the turbulent areas of mixing zones. [poster](../files/UQ-Turbulence.pdf) 
   * Supervisor: Emilio Baglietto
 
 Teaching Experience
 ======
-* **CHEM 3498** - Honors Organic Chemistry II Lab - Laboratory TA *Spring 2019 - Spring 2020*
-* **CHEM 2031** - General Chemistry - Lecture TA *Fall 2018 - Spring 2019*
-* **CHEM 3481** Honors Organic Chemistry I - Lecture TA *Fall 2018*
+* **CHEM 3498** - Honors Organic Chemistry II Lab - Laboratory TA - (Spring 2019 - Spring 2020)
+* **CHEM 2031** - General Chemistry - Lecture TA - Fall 2018 - (Spring 2019)
+* **CHEM 3481** Honors Organic Chemistry I - Lecture TA - (Fall 2018)
 
 Publications
 ======
-  
+*
+
 Outreach
 ======
+*
 
-Awards
+Achievements
 ======
-
+* National Science Foundation Graduate Research Fellowship *[Honorable mention]* - (2020)
+* MARC U-STAR Scholar - Summer 2018 - (May 2020)
+* UC Denver Outstanding Graduating Chemistry Major - (2020)
+* Mike Milash Teaching Assistant of the Year - (2020)
+* ACS Physical Chemistry Student of the Year - (2019)
