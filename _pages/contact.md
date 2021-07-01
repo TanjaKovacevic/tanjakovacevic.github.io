@@ -20,9 +20,9 @@ Berkeley, CA 94720-4767
  </tr>
  <tr>
     <td>tanja_kovacevic (AT) berkeley.edu</td>
-    <td> University of California, Berkeley __
-         Department of Earth and Planetary Science __
-         307 McCone Hall, Office 449 __
+    <td> University of California, Berkeley </br>
+         Department of Earth and Planetary Science </br>
+         307 McCone Hall, Office 449 </br>
          Berkeley, CA 94720-4767 </td>
  </tr>
 </table>
