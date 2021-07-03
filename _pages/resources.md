@@ -11,12 +11,10 @@ Graduate Student Fellowships
 ======
 * NSF GRFP
 * Hertz Fellowship
-* Ford Foundation Graduate Fellowship <img align="right" width="100" height="100" src="/images/fellowship-ring.jpg">
+* Ford Foundation Graduate Fellowship <img align="right" width="200" height="200" src="/images/fellowship-ring.jpg">
 * SOROS Fellowship
 * NASA FINESST
 
-<img align="right" width="100" height="100" src="file:///Users/tanjakovacevic/website/tanjakovacevic.github.io/images/fellowship-ring.png">
-<img align="right" width="100" height="100" src="/images/profile.png">
 
 Research experience
 ======
