@@ -11,7 +11,7 @@ Graduate Student Fellowships
 ======
 * NSF GRFP
 * Hertz Fellowship
-* Ford Foundation Graduate Fellowship <img align="right" width="100" height="100" src="/Users/tanjakovacevic/website/images/fellowship-ring.png">
+* Ford Foundation Graduate Fellowship <img align="right" width="100" height="100" src="http://localhost/Users/tanjakovacevic/website/images/fellowship-ring.png">
 * SOROS Fellowship
 * NASA FINESST
 
