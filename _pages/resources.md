@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Graduate Student Fellowships
+Graduate Student Fellowships <img align="right" width="180" height="180" src="/images/fellowship-ring.jpg">
 ======
-<img align="right" width="180" height="180" src="/images/fellowship-ring.jpg">
 * NSF GRFP
 * Hertz Fellowship
 * Ford Foundation Graduate Fellowship
