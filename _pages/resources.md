@@ -9,6 +9,8 @@ author_profile: true
 
 Graduate Student Fellowships
 ======
+![image](../images/foo-bar-identity-th.jpg){: style="float: right"}
+
 * NSF GRFP
 * Hertz Fellowship
 * Ford Foundation Graduate Fellowship
