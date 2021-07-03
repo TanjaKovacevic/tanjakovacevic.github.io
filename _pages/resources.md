@@ -11,9 +11,11 @@ Graduate Student Fellowships
 ======
 * NSF GRFP
 * Hertz Fellowship
-* Ford Foundation Graduate Fellowship  ![image](../images/foo-bar-identity-th.jpg){: style="float: right"; height="25%" width="25%"}
+* Ford Foundation Graduate Fellowship <img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 * SOROS Fellowship
 * NASA FINESST
+
+![image](../images/foo-bar-identity-th.jpg){: style="float: right"; height="25%" width="25%"}
 
 Research experience
 ======
