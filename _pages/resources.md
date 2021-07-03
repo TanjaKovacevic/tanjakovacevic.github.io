@@ -15,6 +15,8 @@ Graduate Student Fellowships
 * SOROS Fellowship
 * NASA FINESST
 
+<img align="right" width="100" height="100" src="file:///Users/tanjakovacevic/website/tanjakovacevic.github.    io/images/fellowship-ring.png">
+
 Research experience
 ======
 * Fall 2020 - Current: Research Assistant
