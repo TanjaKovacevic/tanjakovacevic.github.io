@@ -9,11 +9,9 @@ author_profile: true
 
 Graduate Student Fellowships
 ======
-![image](../images/foo-bar-identity-th.jpg){: style="float: right"; height="25%" width="25%"}
-
 * NSF GRFP
 * Hertz Fellowship
-* Ford Foundation Graduate Fellowship
+* Ford Foundation Graduate Fellowship  ![image](../images/foo-bar-identity-th.jpg){: style="float: right"; height="25%" width="25%"}
 * SOROS Fellowship
 * NASA FINESST
 
