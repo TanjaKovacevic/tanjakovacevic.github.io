@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* **Graduate Student Researcher** - (Fall 2020 - Current) // U.C. Berkeley - Earth and Planetary Science Department
+* **Graduate Student Researcher** - (Fall 2020 - Current)  U.C. Berkeley - Earth and Planetary Science Department
   * I perform ab initio molecular dynamics in order to calculate equations of sate (EOSs) for material under extreme conditions in order to determine thermodynamic characteristics of  planetary interiors.  
   * Supervisor: Burkhard Militzer
 
