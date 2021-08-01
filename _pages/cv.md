@@ -17,16 +17,16 @@ Education
 
 Research experience
 ======
-* **Graduate Student Researcher** - (Fall 2020 - Current)\ U.C. Berkeley - Earth and Planetary Science Department
+**Graduate Student Researcher** - (Fall 2020 - Current)\ U.C. Berkeley - Earth and Planetary Science Department
   * I perform ab initio molecular dynamics in order to calculate equations of sate (EOSs) for material under extreme conditions in order to determine thermodynamic characteristics of  planetary interiors.  
   * Supervisor: Burkhard Militzer
 
-* **Undergraduate Research Assistant** - (Fall 2017 - Spring 2020)\ C.U. Denver - Chemistry Department
+**Undergraduate Research Assistant** - (Fall 2017 - Spring 2020)\ C.U. Denver - Chemistry Department
   * Conducted a computational study of the villin headpiece subdomain HP-36 computing hypersurface, ring-flipping, profiles of the hydrophobic core (F47 F51, F58) via umbrella sampling. Link to my [poster](../files/HP36.pdf).
   * I wrote a [tutorial](https://github.com/TanjaKovacevic/Umbrella_Sampling/) for Umbrella Sampling/WHAM of a dihedral angle to determine potential of mean force.  
   * Supervisor: Hai Lin
   
-* **Undergraduate Research Assitant** - (Summer 2019)\ M.I.T. - Nuclear Science and Engineering Department
+**Undergraduate Research Assitant** - (Summer 2019)\ M.I.T. - Nuclear Science and Engineering Department
   * Performed computational fluid dynamics implementing a novel uncertainty quantification method on GEMIX (international benchmark) bounding experimental results within the turbulent areas of mixing zones. [poster](../files/UQ-Turbulence.pdf) 
   * Supervisor: Emilio Baglietto
 
