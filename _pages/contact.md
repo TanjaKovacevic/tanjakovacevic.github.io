@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-* email : tanja_kovacevic (AT) berkeley.edu
+* email : \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tanja_kovacevic (AT) berkeley.edu
 * address :\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of California Berkeley \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Earth and Planetary Science \
