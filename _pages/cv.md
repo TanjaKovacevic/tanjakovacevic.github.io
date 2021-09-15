@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Kovacevic-CV.pdf](../files/Curriculum_Vitae___Kovacevic.pdf)
+======
+
 Education
 ======
 * **Ph.D in Earth and Planetary Science**, University of California, Berkeley, 2025 (expected)
