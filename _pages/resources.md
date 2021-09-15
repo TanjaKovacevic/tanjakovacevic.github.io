@@ -21,5 +21,6 @@ Diversity, Equity and Inclusion
 \
 \
 **My statement.** I believe in diversity and justice for humans of all backgrounds and identity. Diversity and justice are critical in scientific discoveries both on and off our planet. My journey will consist of growth, change, and regular self reflection because I strive to remain an ally. I acknowledge that this statement is only the first step towards the larger picture of building a diverse and equitable scientific community. I encourage others in my community to join me in the pursuit of meaningful reform. \
-\
-[![Alternate Text]]({https://www.youtube.com/watch?v=JHLAf1rFF_Y} "Link Title")
+
+<a href="{https://www.youtube.com/watch?v=JHLAf1rFF_Y}" title="Finding Your Voice - Jane Willenbring"><img src="{image-url}" alt="Alternate Text" /></a>
+
