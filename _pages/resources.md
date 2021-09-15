@@ -17,5 +17,5 @@ Graduate Student Fellowships <img align="right" width="180" height="180" src="/i
 Diversity, Equity and Inclusion
 ======
 * [UC Berkeley's DEI Deparment](https://diversity.berkeley.edu)
-* [URGE Website](https://urgeoscience.org/recordings/)
+* [URGE Website](https://urgeoscience.org/recordings/) \
 **My statement.** I believe in diversity and justice for humans of all backgrounds and identity. Diversity and justice are critical in scientific discoveries both on and off our planet. My journey will consist of growth, change, and regular self reflection because I strive to remain an ally. I acknowledge that this statement is only the first step towards the larger picture of building a diverse and equitable scientific community. I encourage others in my community to join me in the pursuit of meaningful reform.
