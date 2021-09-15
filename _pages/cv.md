@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [Kovacevic-CV.pdf](../files/Curriculum_Vitae___Kovacevic.pdf)
-======
 
 Education
 ======
