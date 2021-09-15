@@ -41,9 +41,9 @@ Teaching Experience
 
 Publications
 ======
-[3] **T. Kovacevic**, F. Cataldo-Gonzalez, S.T. Stewart, B. Militzer, ”Miscibility of Rock and Ice in the Interiors of Water Worlds”,_(In Progress)_
-[2] **T. Kovacevic**, Miller D., Oviedo J., Vugmeyster L., Lin H. , The Gibb’s Free Energy for Ring Flipping ofF47,F49, & F58 within the Core of HP-36”,_(In Progress)_
-[1] **T. Kovacevic**, A. Skinner, J. Fisk, V. Fishback, S. Reed, ”A Semester-Long, Organic ChemistryLaboratory Structured around Unknown Analysis and Resynthesis as a Bridge to Guided-Inquiry”,J. Chem.Educ.2020, 97, 6, 1633–1636, [DOI](https://pubs.acs.org/doi/10.1021/acs.jchemed.9b01037)
+[3] **T. Kovacevic**, F. Cataldo-Gonzalez, S.T. Stewart, B. Militzer, ”Miscibility of Rock and Ice in the Interiors of Water Worlds”,_(In Progress)_ \
+[2] **T. Kovacevic**, Miller D., Oviedo J., Vugmeyster L., Lin H. , The Gibb’s Free Energy for Ring Flipping ofF47,F49, & F58 within the Core of HP-36”,_(In Progress)_ \
+[1] **T. Kovacevic**, A. Skinner, J. Fisk, V. Fishback, S. Reed, ”A Semester-Long, Organic ChemistryLaboratory Structured around Unknown Analysis and Resynthesis as a Bridge to Guided-Inquiry”,J. Chem.Educ.2020, 97, 6, 1633–1636, [DOI](https://pubs.acs.org/doi/10.1021/acs.jchemed.9b01037) \
 
 
 Outreach
