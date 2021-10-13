@@ -51,7 +51,7 @@ Publications
 Outreach
 ======
 * San Quentin Prison - Mt. Tamalplais College - Tutor (EST 204)
-* Undoing Racism in the GEoSciences (URGE) - Member of the [Berkeley pod](https://urgeoscience.org/pods/berkeley-2/)
+* Unlearning Racism in the GEoSciences (URGE) - Member of the [Berkeley pod](https://urgeoscience.org/pods/berkeley-2/)
 * Physical Sciences Opportunities for Womxn in Education and Research (POWER) - Mentor
 
 Achievements
