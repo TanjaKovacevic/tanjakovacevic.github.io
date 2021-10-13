@@ -12,11 +12,11 @@ Graduate Student Fellowships <img align="right" width="180" height="180" src="/i
 * [NSF GRFP](https://www.nsfgrfp.org)
 * [Hertz Fellowship](https://www.hertzfoundation.org)
 * [Ford Foundation Graduate Fellowship](https://www.fordfoundation.org)
-* [SOROS Fellowship](https://www.pdsoros.org)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+* [SOROS Fellowship](https://www.pdsoros.org) \
+$~$
+$~$
+$~$
+$~$
 
 Diversity, Equity and Inclusion
 ======
