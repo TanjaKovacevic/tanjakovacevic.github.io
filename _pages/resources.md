@@ -16,7 +16,7 @@ Graduate Student Fellowships <img align="right" width="180" height="180" src="/i
 \
 \
 \
-\
+
 
 Diversity, Equity and Inclusion
 ======
