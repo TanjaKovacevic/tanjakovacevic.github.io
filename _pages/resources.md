@@ -13,10 +13,11 @@ Graduate Student Fellowships <img align="right" width="180" height="180" src="/i
 * [Hertz Fellowship](https://www.hertzfoundation.org)
 * [Ford Foundation Graduate Fellowship](https://www.fordfoundation.org)
 * [SOROS Fellowship](https://www.pdsoros.org) \
-\
-\
-\
-\
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 Diversity, Equity and Inclusion
 ======
 * [UC Berkeley's DEI Deparment](https://diversity.berkeley.edu)
