@@ -16,8 +16,7 @@ Graduate Student Fellowships <img align="right" width="180" height="180" src="/i
 \
 \
 \
-
-
+\
 Diversity, Equity and Inclusion
 ======
 * [UC Berkeley's DEI Deparment](https://diversity.berkeley.edu)
