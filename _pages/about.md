@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Earth and Planetary Science Department (EPS) at UC Berkeley. I completed my B.S. in Chemistry at CU Denver in May 2020. I am a proud first generation college student. 
-I perform ab initio molecular dynamics in order to calculate material properties at extreme conditions. I have an interest in Planetary Science, specifically the study of planetary interiors. By quantifying thermodynamic properties of molecular interactions under extreme conditions, I plan to use the data to elucidate the composition and evolution of exoplanets. 
+I am a graduate student in the Earth and Planetary Science Department (EPS) at UC Berkeley. I completed my B.S. in Chemistry at CU Denver in May 2020. I am a proud first generation college student. \
+I perform ab initio molecular dynamics in order to calculate material properties at extreme conditions. I have an interest in Planetary Science, specifically the study of planetary interiors. By quantifying thermodynamic properties of molecular interactions under extreme conditions, I plan to use the data to elucidate the composition and evolution of exoplanets. \
 I take outreach and student engagement seriously. If you are interested in learning more about my research or Planetary Science research, I hope you reach out so we can chat! I am also more than happy to discuss my journey into higher education as a first generation college student and community college transfer student. 
 In my free time, I enjoy biking, doing yoga, and cooking with friends on the weekends. 
 
